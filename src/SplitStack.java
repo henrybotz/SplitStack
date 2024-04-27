@@ -1,3 +1,14 @@
+/**  
+    * @author Henry Botz
+    * @version 1.0
+    * ITEC 2150 Spring 2024
+    * April 25, 2024
+    * SplitStack.java - Takes a stack of integers that sorts and splits them into negative and non-negative and puts the positive numbers on top and negatives on the bottom.
+    */
+
+
+
+
 import java.util.Stack;
 import java.util.Queue;
 import java.util.LinkedList;
